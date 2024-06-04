@@ -2,6 +2,6 @@
 
 环境是node21+vue2+uview2.0，最好用yarn安装依赖，不容易出错。
 
-yarn安装好依赖后，运行npm run dev:h5后访问http://localhost:3000即可在浏览器中打开h5网页
+yarn安装好依赖后，运行npm run dev:h5后访问 http://localhost:3000 即可在浏览器中打开h5网页
 
 uview2.0的网站链接：[介绍 | uView 2.0 - 全面兼容 nvue 的 uni-app 生态框架 - uni-app UI 框架 (uviewui.com)](https://uviewui.com/components/intro.html)
